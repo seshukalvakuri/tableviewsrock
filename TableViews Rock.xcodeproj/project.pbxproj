@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		595633E8221C62B0001F7848 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595633E7221C62B0001F7848 /* AppDelegate.swift */; };
 		595633EA221C62B0001F7848 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595633E9221C62B0001F7848 /* FirstViewController.swift */; };
-		595633EC221C62B0001F7848 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595633EB221C62B0001F7848 /* SecondViewController.swift */; };
+		595633EC221C62B0001F7848 /* TouristSitesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595633EB221C62B0001F7848 /* TouristSitesViewController.swift */; };
 		595633EF221C62B0001F7848 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 595633ED221C62B0001F7848 /* Main.storyboard */; };
 		595633F1221C62B1001F7848 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 595633F0221C62B1001F7848 /* Assets.xcassets */; };
 		595633F4221C62B1001F7848 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 595633F2221C62B1001F7848 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		595633E4221C62B0001F7848 /* TableViews Rock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TableViews Rock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		595633E7221C62B0001F7848 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		595633E9221C62B0001F7848 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		595633EB221C62B0001F7848 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		595633EB221C62B0001F7848 /* TouristSitesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouristSitesViewController.swift; sourceTree = "<group>"; };
 		595633EE221C62B0001F7848 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		595633F0221C62B1001F7848 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		595633F3221C62B1001F7848 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				595633E7221C62B0001F7848 /* AppDelegate.swift */,
 				595633E9221C62B0001F7848 /* FirstViewController.swift */,
-				595633EB221C62B0001F7848 /* SecondViewController.swift */,
+				595633EB221C62B0001F7848 /* TouristSitesViewController.swift */,
 				595633ED221C62B0001F7848 /* Main.storyboard */,
 				595633F0221C62B1001F7848 /* Assets.xcassets */,
 				595633F2221C62B1001F7848 /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				595633EC221C62B0001F7848 /* SecondViewController.swift in Sources */,
+				595633EC221C62B0001F7848 /* TouristSitesViewController.swift in Sources */,
 				595633E8221C62B0001F7848 /* AppDelegate.swift in Sources */,
 				595633EA221C62B0001F7848 /* FirstViewController.swift in Sources */,
 			);
